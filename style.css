@@ -1,0 +1,18 @@
+.border1{
+    border: 1px solid black;
+}
+.borderBt {
+    border-bottom: 1px solid #ccc;
+}
+.pad2{
+    padding:2px;
+}
+.pad20{
+    padding:20px;
+}
+.margT-31{
+    margin-top: -46px;
+}
+.margL-10{
+    margin-left: 10px
+}
